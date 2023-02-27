@@ -24,6 +24,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/busra/source/repos/aspnet-mvc-cms1/AspNetMvcCms/AspNetMvcCms/Views/Shared/_ContactForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db250YWN0Rm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/busra/source/repos/aspnet-mvc-cms1/AspNetMvcCms/AspNetMvcCms/Views/Shared/_CustomerReviews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DdXN0b21lclJldmlld3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/busra/source/repos/aspnet-mvc-cms1/AspNetMvcCms/AspNetMvcCms/Views/Shared/_FeaturedColumns.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9GZWF0dXJlZENvbHVtbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -40,8 +48,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/busra/source/repos/aspnet-mvc-cms1/AspNetMvcCms/AspNetMvcCms/Views/Shared/_Partners.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0bmVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/busra/source/repos/aspnet-mvc-cms1/AspNetMvcCms/AspNetMvcCms/Views/Shared/_Services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TZXJ2aWNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/busra/source/repos/aspnet-mvc-cms1/AspNetMvcCms/AspNetMvcCms/Views/Shared/_Slider.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TbGlkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/busra/source/repos/aspnet-mvc-cms1/AspNetMvcCms/AspNetMvcCms/Views/Shared/_Statistics.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TdGF0aXN0aWNzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/busra/source/repos/aspnet-mvc-cms1/AspNetMvcCms/AspNetMvcCms/Views/Shared/_TopBar.cshtml]
